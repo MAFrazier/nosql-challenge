@@ -21,7 +21,7 @@
    #### Rating Value refers to the overall rating decided by the Food Authority and ranges from 1-5. The higher the value, the better the rating.
    #### The scores for Hygiene, Structural, and Confidence In Management work in reverse. This means, the higher the value, the worse the establishment is in these areas.
    #### The following questions are used to explore the database while using count_documents, pprint and Pandas Dataframe:
-  ####1.	Which establishments have a hygiene score equal to 20?
+  #### 1.	Which establishments have a hygiene score equal to 20?
    #### 2.	Which establishments in London have a Rating Value greater than or equal to 4?
   #### 3.	What are the top 5 establishments with a Rating Value of 5, sorted by lowest hygiene score, nearest to the new restaurant added, "Penang Flavours"?
   #### 4.	How many establishments in each Local Authority area have a hygiene score of 0? Sort the results from highest to lowest, and print out the top ten local authority areas.
