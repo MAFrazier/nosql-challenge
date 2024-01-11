@@ -7,8 +7,10 @@
   ### A  UK Food Standards Agency evaluates various establishments across the United Kingdom, along with their food hygiene rating for these establishments. These ratings data are evaluated in order to help journalists and food critics decide where to focus future articles.
 
 ### Part 1: Database and Jupyter Notebook Set Up
-  #### 1.	Import the data provided in the establishments.json file from Terminal. Created database uk_food with collection “establishments” 
-  #### 2.	Within notebook, import the libraries you need: PyMongo and Pretty Print, and created an instance of the Mongo Client.
+    #### 1.	Import the data provided in the establishments.json file from Terminal. 
+            Created database uk_food with collection “establishments” 
+    #### 2.	Within notebook, import the libraries you need: PyMongo and Pretty Print,
+            and created an instance of the Mongo Client.
 
 ### Part 2: Update the Database
   #### Added an exciting new halal restaurant just opened in Greenwich, and added the following information to the database:
